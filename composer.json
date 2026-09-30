@@ -1,0 +1,13 @@
+{
+    "name": "app/smart-helpdesk",
+    "description": "Smart IT Helpdesk System with PHP OOP and Email Notification",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}

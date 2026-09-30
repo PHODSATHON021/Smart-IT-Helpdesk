@@ -1,0 +1,5 @@
+.env
+/vendor/
+/public/uploads/*
+!/public/uploads/.gitkeep
+.vscode/
